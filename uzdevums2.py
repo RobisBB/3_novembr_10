@@ -1,1 +1,1 @@
- 
+ # atkārtot par while ciklu.
